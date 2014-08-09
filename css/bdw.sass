@@ -1,0 +1,231 @@
+//bdw sass
+/* all CSS was written in SASS */
+/* all work is mine, all code i wrote. */
+/* bchavez.gd@gmail.com */
+
+@import 'imports'
+@import 'type'
+// CSS Document
+
+// body
+
+html
+	height: 100% // needed for container min-height
+
+body
+	height: 100%
+	background-color: #FFF
+	font-family: $maven
+	font-weight: 400
+
+//************* List Settings ******************
+
+ul, ol
+	list-style: none
+
+//************** Clear Float ******************
+
+.clear
+	clear: both
+%cf 
+	&:after
+		content: ""
+		display: table
+		clear: both
+%wrap
+	width: 940px
+	padding: 0 10px
+	margin: 0 auto
+	height: auto
+	@extend %cf
+		
+.main
+	width: 100%
+	height: auto  
+
+
+//container
+
+#container
+	position: relative
+	width: 100%
+	min-height: 100%
+	height: auto !important
+	margin: 0 // the bottom margin is the negative value of the footer's height
+.wrapper	
+	@extend %wrap	
+
+// header
+
+header
+	width: 100%
+	height: 70px
+	left: 0px
+	top: 0px
+	box-shadow: 0px 1px 2px #888
+	z-index: 100
+	#name
+		font-size: 50px
+		font-weight: 400
+		float: left
+		margin-right: 50px
+
+	nav ul li
+		font-size: 24px
+		font-weight: 300
+		float: left
+		margin-right: 50px
+		padding-top: 26px
+
+// main
+
+#content
+	height: auto
+	margin: 0 auto
+	@extend %wrap
+
+//***** GALLERY ****
+
+.gallery
+	margin: 1px
+	float: left
+
+.img_gallery
+	float: left
+	height: 200px
+	width: 300px
+	border: 1px #000
+
+.desc_gallery
+	float: left
+	height: 0
+	width: 300px
+	background-color: rgba(0, 0, 0, 0.7)
+	overflow: hidden
+	vertical-align: top
+	position: absolute
+
+.gallery:hover > .desc_gallery
+	transition: height .5s ease-out
+	height: 200px
+	overflow: hidden
+
+.desc_copy
+	color: #FFF
+	word-spacing: normal
+	clear: both
+	padding: 7px
+	font-family: $roboto
+	font-size: .9rem
+	line-height: 1.1rem
+	font-weight: 300
+
+.work
+	font-family: $maven
+	font-size: 1.2rem
+	font-weight: 700
+	color: #000
+	margin: 5px
+	padding: 5px
+	z-index: 1
+	text-align: center
+	border-bottom-width: 1px
+	border-bottom-style: solid
+	border-bottom-color: #fff
+
+.desc_gallery .work a
+	color: #eee
+	text-decoration: none
+	&:hover
+		color: #FFF
+		text-decoration: underline
+// about me page
+
+#intro
+	font-family: $maven
+	font-size: 1.5em
+	height: 50px
+	margin: 20px auto
+	@extend %wrap
+#about
+	font-family: $roboto
+	font-size: 1rem
+	line-height: 1.6rem
+	height: auto
+	font-weight: 300
+	&_img
+		float: left
+		width: 400px
+	&_copy
+		float: left
+		width: 400px
+		margin-left: 25px
+
+//CONTACT SHIT
+
+#contact
+	font-family: $maven
+	color: #ccc
+	background-color: #000
+	padding: 1ex
+	float: left
+	width: 27em
+	height: 20em
+	margin-right: .5ex
+	&-all
+		vertical-align: top
+		width: 47em
+		top: 100px
+		overflow: hidden
+		padding: 1em
+		z-index: 0
+		margin-bottom: 10%
+
+#email
+	background-color: #000
+	color: #CCC
+	float: left
+	height: 20em
+	line-height: 1.5em
+	margin-left: 1em
+	padding: 1ex
+	width: 16em
+	& ul li
+		list-style-position: outside
+		list-style-type: none
+
+#contact form table tr td
+	margin: 10px
+
+//*****************************************footer************************************
+
+footer
+	position: relative
+	background-color: #000
+	height: 200px
+	width: 100%
+	bottom: 0px
+	left: 0px
+	color: #FFF
+	font-size: .8em
+	color: #CCC
+	margin-top: 50px
+
+#address
+	margin: 20px 25px 0px 50px
+	float: left
+
+.social
+	font-family: $maven
+	font-size: 1em
+	line-height: 2em
+	font-weight: 400
+	padding: 10px
+	float: left
+	ul li
+		float: left
+		margin-right: 25px
+
+footer a:hover, #email ul li a:hover
+	color: #FFF
+
