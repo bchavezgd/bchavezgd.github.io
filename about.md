@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I'm Brian, a graphic designer. I'm also a studio photographer, and front end designer. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+So basically a a visual design ninja, that can learn and adapt to any situation that's been thrown at me. I've been looking for a position that's not just taking order, but being asked to help with ideas and feel like part of a team. I work best when I have someone to bounce ideas off of. My main skill set is in Graphic Design, taking pride in my typography and layout designs. Besides that I also have a solid understanding of HTML/CSS and Javascript/jQuery. a basic but growing understanding of PHP, mySQL, and I'm an well practiced with WordPress. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Thanks. 
