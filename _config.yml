@@ -21,6 +21,20 @@ paginate:	5
 url: "http://bchavezgd.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
+# Filtering Content
+show_drafts: false
+limit_posts: 10
+future:      false
+unpublished: false
+
 # social icons and sharing options
 social:
   - icon:	twitter
