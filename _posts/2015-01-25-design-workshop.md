@@ -75,11 +75,11 @@ Sketch notes
 
 ---
 
-## the human side of UX design
+## The Human Side of UX Design
 
-*James Archer*
+*By James Archer*
 
-** Design = Empathy**
+**Design = Empathy**
 
 - Design is a process not a skill
 	- study
@@ -94,7 +94,8 @@ Sketch notes
 
 Does anyone care about the product? Is it relevant to them?
 
-#### UX heirarcy
+**UX heirarcy**
+
 - Delight
 - Comfort
 - Efficiency 
@@ -107,7 +108,7 @@ But remember, *consumer > client.*
 
 Without the consumer, the client won't have any money to spend. 
 
-** Preventing Project Creep **
+**Preventing Project Creep**
 
 If the client doesn't want to pay for something then that service or product doesn't have enough value to them and not worth wasting the time/engery to work on. 
 
@@ -168,7 +169,8 @@ Process:
 5. Measure
 	- deliver
 	- launch
-	-maintain: extra cost written into contract as line item. 
+	- maintain: 
+	   - extra cost written into contract as line item. 
 
 Look into OOP (object oriented programing). 
 
@@ -227,6 +229,6 @@ Look up Oli Gardner, [tutsplus.com](http://www.tutsplus.com) he wrote 7 principa
 
 Paul boag, [boagworld.com](http://www.boagworld.com)
 
-"Your brand is a promise; kept" 
+"Your brand is a promise; kept!" 
 
 Consider what has to happen for each user. 

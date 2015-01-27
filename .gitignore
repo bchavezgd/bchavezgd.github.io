@@ -45,3 +45,4 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+/_config-local.yml
