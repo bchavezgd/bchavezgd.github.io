@@ -4,13 +4,13 @@ highlighter: pygments
 
 # Site settings
 title: "Brian Design Words"
-description: Graphic Design # this means to ignore newlines until "email:"
+description: "Graphic Design"
 
 email: bchavez.gd@gmail.com
+
 #blog logo
 logo: "/assets/images/df_logo.jpg"
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
 
 name: 'Brian Chavez'
 author: 'Brian Chavez'
@@ -27,10 +27,10 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      layout: "post"
+      layout: "default"
 
 # Filtering Content
-show_drafts: false
+show_drafts: true
 limit_posts: 10
 future:      false
 unpublished: false
