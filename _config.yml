@@ -23,6 +23,8 @@ paginate:	5
 url: "http://bchavezgd.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
+image-folder: "/assests/article_images"
+
 defaults:
   -
     scope:
