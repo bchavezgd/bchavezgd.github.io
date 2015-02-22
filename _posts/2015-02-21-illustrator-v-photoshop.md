@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Illustrator is better than Photoshop for mocking up websites."
+title: "Why I think Illustrator is better than Photoshop for mocking up websites."
 date: 2015-02-21
-category: contributions
+category: opinion
 tags: photoshop, rants, opinions
 image:
----
 
-Illustrator is better than Photoshop for mocking up websites.
-===
+---
 
 Designers all have their own choices when it comes to tools of choice, the only thing really constant is the fact Photoshop has been used for almost anything that involved graphics or images. its like the Swiss Army Knife. We should rethink that, maybe we (as designers) should think of things like Photoshop as a single tool, instead of a tool box. From what I can tell, Photoshop is still the first tool many designers go to for mocking up a website. I think that this can be improved on. I believe that Illustrator is better for several reasons. I know this will be a very subjective article, but I hope that people will read the article and try it out before dismissing the idea.
 
-Please note through out most of this article I refer to CS6 unless otherwise specified.
+*Please note through out most of this article I refer to CS6 unless otherwise specified.*
 
 ## Lets start with the Pros:
 
@@ -72,13 +70,13 @@ Photoshop is already the industry's go to for mocking up a website, meaning that
 
 **Folder setup**
 
-When sending a Photoshop file it may look like this.
+When sending a Photoshop file it may look like this (pre CC).
 
 ![]({{ site.url }}{{ site.image-folder }}/file-sys-00.jpg)
 
 Whereas the an Illustrator file would look like this (ignore the notes folder because i don't know many people that do that).
 
-![]({{ site.image-folder }}/file-sys-01.jpg)
+![]({{ site.url }}{{ site.image-folder }}/file-sys-01.jpg)
 
 so lets compare each to a how the working HTML/CSS mockup would look like (simplified of course).
 
@@ -106,11 +104,11 @@ Another reason that I prefer Illustrator is the fact that SVG are quickly becomi
 
 It's no secret that Illustrator handles type way better than Photoshop does, especially longer blocks of text. Photoshop should only use text editing for headlines or complicated type treatments. Smaller blocks are easier to edit in Illustrator, and change their settings, including the size of the containing box. In practice this is a very small issue so I think the only advantage is when embedding text into an SVG graphic, you'd get a cleaner final product than rasterizing it in a PNG. but the main reason I think Illustrator wins this one is because to change a color or font setting is simple as clicking on the word or text block and while the menu is open, which is usually one click less than Photoshop. two clicks less than trying to change a color in Illustrator vs Photoshop. Its more intuitive to click a text block to select it, than to hunt and select the layer to make the same changes.
 
-![Illustrator]({{ site.image-folder }}/ill-typo-00.png)
+![Illustrator]({{ site.url }}{{ site.image-folder }}/ill-typo-00.png)
 
 Also, its much quicker to try different type combinations to figure out what will suit your project.
 
-![]({{ site.image-folder }}/ill-typo-01.jpg)
+![]({{ site.url }}{{ site.image-folder }}/ill-typo-01.jpg)
 
 ---
 
@@ -125,29 +123,28 @@ Secondly a PSD file can easily reach 50+MB, whereas a AI hardly ever gets above 
 
 Illustrator has the advantage of artboards that can export there own individual graphics, from the same file. Lets say you design a handful of icons in the same file, if you where using Photoshop you'd end up having to separate them into their own files before exporting them as usable files, or a sprite grid, a new feature in Photoshop CC is the "Extract Assets" which is similar to art board exporting but since I'm still running CS6 at home and haven't used it at work I can't speak for its performance. Illustrator, you can just wrap each icon or graphic within a new artboard and then export it all from one file by selecting a single check box.
 
-![]({{ site.image-folder }}/ill-artboards-icons-00.jpg)
+![]({{ site.url }}{{ site.image-folder }}/ill-artboards-icons-00.jpg)
 
 For a demo, 3 quick icons that could be used as UI elements. Each in their own artboard. This makes it easy to save out as multiple files when "Use Artboards" is checked.
 
-![]({{ site.image-folder }}/ill-artboards-icons-01.jpg)
+![]({{ site.url }}{{ site.image-folder }}/ill-artboards-icons-01.jpg)
 
 I love this for its efficency alone. 
 
-#### Designing with the fold in mind 
+#### Designing Above The Fold
 
 Another advantage of the artboard is the fact that you can design *around* it. During the initial development of my designs I'll have a lot of build items around the artboards as a way to work on stuff that wouldn't need to be in the final product, but needs to be built separately. Another use would be when designing below your artboards so you can see how a page would scroll, and what needs to happen below the fold of your site.
 
-![artboard]({{ site.image-folder }}/artboards.png)
+![artboard]({{ site.url }}{{ site.image-folder }}/artboards.png)
 
 In Illustrator, you can keep designing down beyond the fold at will. Whereas in Photoshop, you have to extend the canvas which is a two step process, with or without knowing the hot-key for it.
 
-![]({{ site.image-folder }}/ps-canvas-00.jpg) ![]({{ site.image-folder }}/ps-canvas-01.jpg)
+![]({{ site.url }}{{ site.image-folder }}/ps-canvas-00.jpg) ![]({{ site.url }}{{ site.image-folder }}/ps-canvas-01.jpg)
 
 
 #### Designing for Media Queries
 
-Responsive design is unavoidable now. seeing as most people use a device that’s not a computer to browse the web, tablets and smart phones have to be considered when designing your website. So to simulate the screens you can start a Photoshop file with a PPI matching the devices and dimensions, for each media query you'd have to design for, at minimum two but can be upwards of four. With Photoshop that would end up being one file per media query. In Illustrator you can have your
- multiple media queries all in one file, via artboards this is convenience since you have all the media queries right in front of you on the same screen.
+Responsive design is unavoidable now. seeing as most people use a device that’s not a computer to browse the web, tablets and smart phones have to be considered when designing your website. So to simulate the screens you can start a Photoshop file with a PPI matching the devices and dimensions, for each media query you'd have to design for, at minimum two but can be upwards of four. With Photoshop that would end up being one file per media query. In Illustrator you can have your multiple media queries all in one file, via artboards this is convenience since you have all the media queries right in front of you on the same screen.
 
 A similar consideration would be off canvas navigation for smaller screen media queries, or even just how your layout can change when going from desktop design to smartphone.
 
@@ -159,11 +156,10 @@ Another win for Illustrator for simplicities sake.
 > 
 > ― Bruce Lee
 
-### Honerable Mentions
+### Honorable Mentions
 
-There are new competitors with [Sketch 3](HTTP://bohemiancoding.com/sketch/), I haven't used it because it's OSX only (I don't have a mac, because they are insanely over priced) the software itself is only $100 for the license, so that's good. Adobe has more than one capable tool with their new Creative Cloud serive [Adobe Muse](HTTP://muse.adobe.com/) and [Edge Reflow](https://creative.adobe.com/products/reflow), both are worth looking in to, but their cost of admission at $600 a year for the CC subscription is pretty high. Their is also [Serif's Affinity Designer](https://affinity.serif.com/en-gb/), which again is mac only but only about $50 (£39.99 offically).
+There are new competitors with [Sketch 3](HTTP://bohemiancoding.com/sketch/), I haven't used it because it's OSX only (I don't have a mac, because they are insanely over priced) the software itself is only $99 for the license, so that's good. Adobe has more than one capable tool with their new Creative Cloud service [Adobe Muse](HTTP://muse.adobe.com/) and [Edge Reflow](https://creative.adobe.com/products/reflow), both are worth looking in to, but their cost of admission at $600 a year for the CC subscription is pretty high. Their is also [Serif's Affinity Designer](https://affinity.serif.com/en-gb/), which again is mac only but only about $50 (£39.99 offically).
 
-### Final results.
+### Final Results
 
 Well its pretty clear that I think Illustrator is a better tool for mocking up a website and I hope that I change a mind or two. That's not to say that Photoshop is without it's own merits. I just believe it's a photo editing tool, not a web design tool. A few places Photoshop is better is file compatibility, you can make a PSD in CS6, and it'll open in CS4. You can't reliably do that with Illustrator. And since it's the go to software already, there are tools that use a PSD to convert them to HTML/CSS files without knowing much code. And finally, it's your decision not mine, but try it. You might like it.
-
