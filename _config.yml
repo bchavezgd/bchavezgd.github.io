@@ -3,14 +3,16 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Brian Design Words"
-description: Graphic Design # this means to ignore newlines until "email:"
+title: "Elephant Aviator"
+description: "Graphic Design"
 
 email: bchavez.gd@gmail.com
+
 #blog logo
 logo: "/assets/images/df_logo.jpg"
+
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/yosemite-falls-pano.jpg"
 
 name: 'Brian Chavez'
 author: 'Brian Chavez'
@@ -20,6 +22,22 @@ paginate:	5
 
 url: "http://bchavezgd.github.io" # the base hostname & protocol for your site
 baseurl: ""
+
+image-folder: "/assets/article_images"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+
+# Filtering Content
+show_drafts: true
+limit_posts: 10
+future:      false
+unpublished: false
 
 # social icons and sharing options
 social:
