@@ -36,7 +36,7 @@ defaults:
 # Filtering Content
 show_drafts: true
 limit_posts: 10
-future:      false
+future: false
 unpublished: false
 
 # social icons and sharing options
