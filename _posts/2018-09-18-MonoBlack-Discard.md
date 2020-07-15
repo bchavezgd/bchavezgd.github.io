@@ -1,10 +1,10 @@
 ---
-Title: MonoBlack Discard in Standard
+Title: "MonoBlack Discard in Standard"
 Date: 2018-09-18
-Layout: post
-Game: Magic
+layout: post
 Category: Deck Tech
 Tags: Magic The Gathering, MTG, Standard, Spike
+
 
 ---
 
@@ -12,7 +12,7 @@ Tags: Magic The Gathering, MTG, Standard, Spike
 
 # MonoBlack Discard
 
-Deck Tech
+**Deck Tech**
 
 With Magic Coreset 2019 out, and rotation knocking out a large section part of standard, everyone is trying to break the format before it has had a chance to actually rotate. as a magic player, I'm also looking for that edge of playing an unknown, meta breaking deck. when i saw the [Mono Black Burn](http://magic.tcgplayer.com/db/article.asp?ID=14798&writer=Strictly+Better+MTG&articledate=8-10-2018) deck by SBMtG on youtube, i already had most of the cards, i went ahead and tried it. after a few games i found that i would win pretty easily if i was able to resolve a **Raider's Wake**, and if that went unanswered and i was able to resolve an **Arterial Flow** or **Fell Specter**, the deck could deal eight damage to my opponent in a turn. Then I remembered the card that won me three of my Dominaria pre-release rounds, **Urgoros, The Empty One**. the card reads 
 
