@@ -2,7 +2,7 @@
 
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 # Site settings
 title: "Elephant Aviator"
@@ -55,7 +55,7 @@ social:
     share_url:
     share_title:
     share_link:
-    
+
   - icon:	instagram
     url:	https://github.com/abattoirsiren
     desc:	follow
