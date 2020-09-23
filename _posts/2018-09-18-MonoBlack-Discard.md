@@ -1,10 +1,10 @@
-
 ---
+layout: post  
 Title: "MonoBlack Discard in Standard"
 Date: 2018-09-18
-layout: post
 Category: Deck Tech
 Tags: Magic The Gathering, MTG, Standard, Spike
+
 ---
 
 # MonoBlack Discard
@@ -73,9 +73,9 @@ My sideboard build is a bit defensive and can use an overhaul. Against aggro I b
 |        1 | Settle the Score       | Midrange                             |
 |        2 | Unburden               | Draw heavy decks                     |
 |        1 | Vanquish the Weak      | Aggro. Need better card here.        |
-|        ---  |    ---                    |    ---                                  |
+|      --- | ---                    | ---                                  |
 | **2.67** | **Average CMC**        |                                      |
-|---|---|---|
+|      --- | ---                    | ---                                  |
 
 
 
@@ -85,25 +85,25 @@ My sideboard build is a bit defensive and can use an overhaul. Against aggro I b
 
 1. UR Wizards - W 2/1 p3
 2. MonoGreen Stompy - L 1/2 p0
-   - VINE MARE WITH PANTS!
+	- VINE MARE WITH PANTS!
 3. mono Blue Beatdown - D 1/1 p1
-   - opponent conceded match
+	- opponent conceded match
 4. GB Snake - W 2/1 p3
-   - Focused on making all creatures Explore.
+	- Focused on making all creatures Explore.
 5. WUR good-stuff L 0/2 p0
-   - NonMeta deck.
+	- NonMeta deck.
 6. BG Bug Counters - L 1/2 p0
-   - Using **Decimator Beetle** and -1/-1 counter synergy to control board state.
-   - Flooded out game 3.
+	- Using **Decimator Beetle** and -1/-1 counter synergy to control board state.
+	- Flooded out game 3.
 7. BW Benalia L 0/2 p0
-   - **Kite sail Freebooter** is a really disruptive card. **Knight of Grace** is hard to deal with, couldn't pull a **Golden Demise** to deal with it soon enough.
+	- **Kite sail Freebooter** is a really disruptive card. **Knight of Grace** is hard to deal with, couldn't pull a **Golden Demise** to deal with it soon enough.
 8. Sultai Desecrated Tomb w p3
-   - was expecting **Muldrotha, the Gravetide**, it was never cast
-   - Opponent disconnected.
+	- was expecting **Muldrotha, the Gravetide**, it was never cast
+	- Opponent disconnected.
 9. Red Deck Wins   D p1
-   - outraced
-   - opponent conceded
-   - Non meta deck, opp on aggro/burn strategy with combat tricks to get damage through. Leaving them open to 3:1 removal. Able to win by pulling my late third land drop with plenty of removal in hand.
+	- outraced
+	- opponent conceded
+	- Non meta deck, opp on aggro/burn strategy with combat tricks to get damage through. Leaving them open to 3:1 removal. Able to win by pulling my late third land drop with plenty of removal in hand.
 10. GW Ascend 0/2 p0
 
 - Efficient ramp with big payoffs.
