@@ -1,33 +1,17 @@
+
 ---
-<<<<<<< HEAD
 Title: "MonoBlack Discard in Standard"
 Date: 2018-09-18
 layout: post
 Category: Deck Tech
 Tags: Magic The Gathering, MTG, Standard, Spike
-
-
-=======
-title: MonoBlack Discard in Standard
-date: 2018-09-18
-layout: post
-game: Magic
-category: Deck-Tech
-tags: Magic The Gathering, MTG, Standard, Spike
->>>>>>> Update testing. Updated blog entry.
 ---
-
-
 
 # MonoBlack Discard
 
-<<<<<<< HEAD
 **Deck Tech**
 
 With Magic Coreset 2019 out, and rotation knocking out a large section part of standard, everyone is trying to break the format before it has had a chance to actually rotate. as a magic player, I'm also looking for that edge of playing an unknown, meta breaking deck. when i saw the [Mono Black Burn](http://magic.tcgplayer.com/db/article.asp?ID=14798&writer=Strictly+Better+MTG&articledate=8-10-2018) deck by SBMtG on youtube, i already had most of the cards, i went ahead and tried it. after a few games i found that i would win pretty easily if i was able to resolve a **Raider's Wake**, and if that went unanswered and i was able to resolve an **Arterial Flow** or **Fell Specter**, the deck could deal eight damage to my opponent in a turn. Then I remembered the card that won me three of my Dominaria pre-release rounds, **Urgoros, The Empty One**. the card reads 
-=======
-With Magic Coreset 2019 out, and rotation knocking out a large section part of standard, everyone is trying to break the format before it has had a chance to actually rotate. as a magic player, I'm also looking for that edge of playing an unknown, meta breaking deck. when i saw the [Mono Black Burn](http://magic.tcgplayer.com/db/article.asp?ID=14798&writer=Strictly+Better+MTG&articledate=8-10-2018) deck by SBMtG on youtube, i already had most of the cards, i went ahead and tried it. after a few games i found that i would win pretty easily if i was able to resolve a **Raider's Wake**, and if that went unanswered and i was able to resolve an **Arterial Flow** or **Fell Specter**, the deck could deal eight damage to my opponent in a turn. Then I remembered the card that won me three of my Dominaria pre-release rounds, **Urgoros, The Empty One**. the card reads
->>>>>>> Update testing. Updated blog entry.
 
 > **Urgoros, The Empty One** 4BB
 > Legendary Creature — Specter
@@ -39,11 +23,11 @@ With Magic Coreset 2019 out, and rotation knocking out a large section part of s
 >
 > 4/3
 
-*Urgoros* forces an opponent to discard a card when dealt combat damage. When Raider's Wake is on board, that's an extra two damage, for six total from a single combat. Then with the *raid* trigger, opponent is forced to discard another card and lose another two life, for a total of eight life in a single turn. If this effect is compounded with Fell Specter that puts an additional trigger making opponent lose two life when discarding. In this scenario  a single hit with *Urgoros* means opponent discards two cards and loses 20 life by the end of your turn.  
+*Urgoros* forces an opponent to discard a card when dealt combat damage. When Raider's Wake is on board, that's an extra two damage, for six total from a single combat. Then with the *raid* trigger, opponent is forced to discard another card and lose another two life, for a total of eight life in a single turn. If this effect is compounded with Fell Specter that puts an additional trigger making opponent lose two life when discarding. In this scenario  a single hit with *Urgoros* means opponent discards two cards and loses 20 life by the end of your turn. 
 
 I wanted to go all-in with these three cards.
 
-First I remembered Saffron Olive's 8 Rack video, I had to take ideas from that, and other mono black discards in previous standard formats. The Deck would have a rather high cmc because it revolves around a six drop and two four drops. just these cards alone create a deck building challenge. i looked to control decks that have finishers like **Torrential Gearhulk** at 4UU, Stompy decks that can ramp out huge beasts, and tried to find ramp that's usable in a Mono Black deck. the answer was **Cabal Stronghold**, is a strictly worse **Urborg, Tomb of Yawgmoth** but a slightly better version of **Cabal Coffers**. *Stronghold* plus three swamps is capable of producing *BBBB* and by turn five with four Swamps, and two *Strongholds* can produce six black mana instead of four. See the article [Examining Cabal Stronghold](http://www.starcitygames.com/articles/36961_Examining-Cabal-Stronghold.html) on Star City Games to read a more in depth article about the card, and why not to use it. However, I haven't missed the utilities lands that Sam Black would rather use instead of *Stronghold*. This still left me pretty vulnerable until I was able to resolve the build-around cards on turn four. Which leaves me open to aggro decks, or midrange decks that have an aggressive slant to them. Racing in the early game would mean that i'd have to build for a completely different archetype deck that didn't have room to wait until turn four to get it's engines going. So until I could get the engine on board i'd have to protect myself, in black that meant removal.  
+First I remembered Saffron Olive's 8 Rack video, I had to take ideas from that, and other mono black discards in previous standard formats. The Deck would have a rather high cmc because it revolves around a six drop and two four drops. just these cards alone create a deck building challenge. i looked to control decks that have finishers like **Torrential Gearhulk** at 4UU, Stompy decks that can ramp out huge beasts, and tried to find ramp that's usable in a Mono Black deck. the answer was **Cabal Stronghold**, is a strictly worse **Urborg, Tomb of Yawgmoth** but a slightly better version of **Cabal Coffers**. *Stronghold* plus three swamps is capable of producing *BBBB* and by turn five with four Swamps, and two *Strongholds* can produce six black mana instead of four. See the article [Examining Cabal Stronghold](http://www.starcitygames.com/articles/36961_Examining-Cabal-Stronghold.html) on Star City Games to read a more in depth article about the card, and why not to use it. However, I haven't missed the utilities lands that Sam Black would rather use instead of *Stronghold*. This still left me pretty vulnerable until I was able to resolve the build-around cards on turn four. Which leaves me open to aggro decks, or midrange decks that have an aggressive slant to them. Racing in the early game would mean that i'd have to build for a completely different archetype deck that didn't have room to wait until turn four to get it's engines going. So until I could get the engine on board i'd have to protect myself, in black that meant removal.
 
 One of the best removal spells in standard is **Fatal Push**, it's unfortunately rotating to soon, but running four is the only number i'm comfortable with. Any less means my chances of drawing it in before turn three is way to low. In addition to *Push* I'm running two copies of **Murder** as a back up, which can destroy almost any creature in the format.  **Golden Demise** is a decently priced board wipe with the drawback of being symmetrical, which has been devastating against aggro decks that stay low to the ground, late game it can trigger the Ascend mechanic allowing it to wipe only the opponents side of the board. These cards are able to buy time until the engine gets going.
 
@@ -58,7 +42,7 @@ My sideboard build is a bit defensive and can use an overhaul. Against aggro I b
 ## Decklist
 
 
-| -------- | ---------------------- | ------------------------------------ |
+
 |   **24** | **Lands**              |                                      |
 | -------: | ---------------------- | ------------------------------------ |
 |        4 | Cabal Stronghold       | down one, drawing a 3rd is useless.  |
@@ -128,7 +112,7 @@ My sideboard build is a bit defensive and can use an overhaul. Against aggro I b
 
 To test this deck I played and tracked ten matches in the tournament practice lobby, while the data set isn't as large as i'd like. And I didn't come up against any true control decks. Not a single counter spell seen in 26 games. I did come away with some interesting conclusions:
 
-1. **Vicious Conquistador** was really an Allstar.
+1. **Vicious Conquistador** was really an all-star.
 
 I was consistently able to get four damage in before it ate a removal spell or opponent was able to get an effective blocker on board. Even when it was blocked it's attack trigger was able to deal one damage to opponents face. More offten than not my opponents never put their mana dorks in front of it, or just took the damage while blocking with their 1/x creatures to prevent combat damage. this usually was enough for me to make it to turn four and cast *Wake* during my second main phase triggering it's *Raid* ablility forcing opponent to discard and lose two life. While this card is not a finisher it's a seemingly innocuous enabler that can end games quickly when the engine gets online.
 
@@ -146,8 +130,3 @@ This deck is fun! the novelty of being able to win by doing six damage to oppone
 
 Going forward after rotation i believe that going into blue will help get the engines on board reliably on curve, also cards like **Blink of an Eye** will help against aggro decks that get hellbent by boucing a blocker, and having a something to discard, and providing a painless draw spell. **Opt** helps get to my threats or engines faster, **Negate** to protect from removal, not to mention all the creatures that are bounce spells on a stick. with the arrival of *Guilds of Ravnica*, a Dimir discard deck has even more tools like **Discovery//Dispersal,** **Disinformation Campaign,** and **Connive//Concoct.** I can't say if this deck will be competitive once rotation hits, but it'll still be fun.
 
-<<<<<<< HEAD
-Steam Elephant 
-=======
-Steam Elephant
->>>>>>> Update testing. Updated blog entry.
